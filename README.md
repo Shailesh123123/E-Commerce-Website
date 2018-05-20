@@ -11,7 +11,7 @@ Seller can add new products to the catalog and view the list of customers who br
 
 # STEPS TO RUN THIS APPLICATION:
 
-1)On your specified port(specifically mine is localhost:8080), launch the application.
+1)On your specified port(specifically mine is localhost:8080) using the Tomcat server, launch the application.
 
 2)Using AJAX, i have made sure that on loading dynamically a get request is made to get a list of all the products from the back end so that a list of all the products can be displayed on the home page.
 
@@ -21,4 +21,4 @@ Seller can add new products to the catalog and view the list of customers who br
 
 # TECHNOLOGIES USED:
 
-Angular js/AJAX/html/css/Bootstrap/Spring MVC/Hibernate/MySql(Relational database)
+Angular js/AJAX/html/css/Bootstrap/Spring MVC/Hibernate/MySql(Relational database)/Tomcat server
