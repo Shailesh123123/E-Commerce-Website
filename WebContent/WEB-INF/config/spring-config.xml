@@ -20,7 +20,7 @@
 		<property name="driverClass" value="com.mysql.jdbc.Driver" />
 		<property name="jdbcUrl" value="jdbc:mysql://localhost:3306/BestBuyDB" />
 		<property name="user" value="root" />
-		<property name="password" value="GSC@44444" />
+		<property name="password" value="Adonis123" />
 	</bean>
 
 	<bean id="sessionFactory"
